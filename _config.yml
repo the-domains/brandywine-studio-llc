@@ -37,6 +37,9 @@ navigation:
   - name: Houzz
     url: 'http://www.houzz.com/pro/brandywinestudio'
     type: external
+  - name: Facebook
+    url: 'https://www.facebook.com/brandywinestudio?ref=hl'
+    type: external
 favicon: null
 title: love the space you're in
 description: architecture | interiors
