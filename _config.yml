@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Portfolio
+    url: 'http://www.houzz.com/pro/brandywinestudio'
+    type: external
 favicon: null
 title: love the space you're in
 description: architecture | interiors
