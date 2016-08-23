@@ -40,6 +40,9 @@ navigation:
   - name: Houzz
     url: 'http://www.houzz.com/pro/brandywinestudio'
     type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/brandywinestudio/?hl=en'
+    type: external
   - name: Twitter
     url: 'https://twitter.com/erinnwenrich'
     type: external
@@ -48,9 +51,6 @@ navigation:
     type: external
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/erinnwenrichra/'
-    type: external
-  - name: Instagram
-    url: 'https://www.instagram.com/brandywinestudio/?hl=en'
     type: external
 favicon: null
 title: love the space you're in
