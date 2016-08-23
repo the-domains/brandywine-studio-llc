@@ -46,11 +46,11 @@ navigation:
   - name: LinkedIn
     url: 'https://www.linkedin.com/in/erinnwenrichra/'
     type: external
-  - name: Twitter
-    url: 'https://twitter.com/erinnwenrich'
-    type: external
   - name: Pinterest
     url: 'https://www.pinterest.com/erinnwenrich/'
+    type: external
+  - name: Twitter
+    url: 'https://twitter.com/erinnwenrich'
     type: external
 favicon: null
 title: love the space you're in
