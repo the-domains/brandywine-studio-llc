@@ -43,14 +43,14 @@ navigation:
   - name: Instagram
     url: 'https://www.instagram.com/brandywinestudio/?hl=en'
     type: external
+  - name: LinkedIn
+    url: 'https://www.linkedin.com/in/erinnwenrichra/'
+    type: external
   - name: Twitter
     url: 'https://twitter.com/erinnwenrich'
     type: external
   - name: Pinterest
     url: 'https://www.pinterest.com/erinnwenrich/'
-    type: external
-  - name: LinkedIn
-    url: 'https://www.linkedin.com/in/erinnwenrichra/'
     type: external
 favicon: null
 title: love the space you're in
