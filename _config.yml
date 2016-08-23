@@ -40,6 +40,9 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/brandywinestudio?ref=hl'
     type: external
+  - name: Twitter
+    url: 'https://twitter.com/erinnwenrich'
+    type: external
 favicon: null
 title: love the space you're in
 description: architecture | interiors
