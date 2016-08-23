@@ -2,19 +2,17 @@
 description: >-
   I believe that EVERYONE IS WORTH GOOD DESIGN. I think that our homes and
   workplaces can and should bring about and reflect the life we want to live.
-dateModified: '2016-08-23T14:50:42.527Z'
-datePublished: '2016-08-23T14:51:18.005Z'
+dateModified: '2016-08-23T14:52:42.384Z'
+datePublished: '2016-08-23T14:52:43.121Z'
 title: I’M ERINN WENRICH.
 author: []
 publisher: {}
 via: {}
-isBasedOnUrl: ''
-starred: false
 sourcePath: _posts/2016-08-23-im-erinn-wenrich.md
-inFeed: true
-hasPage: false
-inNav: false
-_type: MediaObject
+hasPage: true
+starred: false
+url: im-erinn-wenrich/index.html
+_type: Blurb
 
 ---
 ![Photo by Leave it ](https://the-grid-user-content.s3-us-west-2.amazonaws.com/47c8b4e3-734f-4ae0-bf82-0d2e441cd6f2.jpg)
