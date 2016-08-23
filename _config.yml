@@ -28,6 +28,9 @@ navigation:
   - name: Portfolio
     url: 'http://www.houzz.com/pro/brandywinestudio'
     type: external
+  - name: Pinterest
+    url: 'https://www.pinterest.com/erinnwenrich/'
+    type: external
 favicon: null
 title: love the space you're in
 description: architecture | interiors
