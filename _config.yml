@@ -34,6 +34,9 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/brandywinestudio/'
     type: external
+  - name: Instagram
+    url: 'https://www.instagram.com/brandywinestudio/'
+    type: external
 favicon: null
 title: love the space you're in
 description: architecture | interiors
