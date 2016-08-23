@@ -40,9 +40,6 @@ navigation:
   - name: Facebook
     url: 'https://www.facebook.com/brandywinestudio/'
     type: external
-  - name: Instagram
-    url: 'https://www.instagram.com/brandywinestudio/'
-    type: external
   - name: about me
     id: 3b7622c1-81f7-4f80-9ab4-302da5918642
     type: content
