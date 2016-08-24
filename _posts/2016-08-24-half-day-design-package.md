@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-24T01:20:05.240Z'
+datePublished: '2016-08-24T18:51:36.814Z'
 sourcePath: _posts/2016-08-24-half-day-design-package.md
 author: []
 via: {}
-dateModified: '2016-08-24T01:20:04.927Z'
+dateModified: '2016-08-24T18:51:36.470Z'
 title: HALF DAY Design Package
 publisher: {}
 description: HALF DAY Design Package - $900
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
