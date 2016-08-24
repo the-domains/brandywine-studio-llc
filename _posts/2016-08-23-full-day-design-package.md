@@ -1,13 +1,13 @@
 ---
-datePublished: '2016-08-24T01:21:36.871Z'
+datePublished: '2016-08-24T18:51:19.294Z'
 sourcePath: _posts/2016-08-23-full-day-design-package.md
 author: []
 via: {}
-dateModified: '2016-08-24T01:21:36.495Z'
+dateModified: '2016-08-24T18:51:19.069Z'
 title: FULL DAY Design Package
 publisher: {}
 description: FULL DAY Design Package (Residential) $1800
-starred: false
+starred: true
 inFeed: true
 hasPage: false
 inNav: false
