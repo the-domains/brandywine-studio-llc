@@ -1,9 +1,9 @@
 ---
-datePublished: '2016-08-24T01:09:20.291Z'
+datePublished: '2016-08-24T01:21:36.871Z'
 sourcePath: _posts/2016-08-23-full-day-design-package.md
 author: []
 via: {}
-dateModified: '2016-08-24T01:09:20.016Z'
+dateModified: '2016-08-24T01:21:36.495Z'
 title: FULL DAY Design Package
 publisher: {}
 description: FULL DAY Design Package (Residential) $1800
@@ -14,6 +14,8 @@ inNav: false
 _type: MediaObject
 
 ---
+![Sketch created during an in-home FULL DAY Design Package - Kitchen addition and renovation](https://the-grid-user-content.s3-us-west-2.amazonaws.com/1686d4b5-32a0-4d22-8b98-a5ab88580a4a.jpg)
+
 # FULL DAY Design Package
 
 **FULL DAY Design Package** (Residential) $1800
@@ -30,4 +32,3 @@ _type: MediaObject
 **:: NEXT STEPS** -- During our design visit I can discuss the possible next steps that you can take in order to move your project forward. These next steps vary widely depending on your budget, type of project, and need for final design, documentation, and construction drawings. When I return your design sketches I will list your NEXT STEPS (based on our discussion at your design visit) and provide pricing for each step. My ultimate goal is that this visit inspires you, creates momentum for your project, and enables you to move forward with a project that is right for you, your family, your home, AND your budget.
 
 Half payment is due at the time of the survey and is payable by cash, check, or credit card. The remaining half will be billed near completion of the package.
-![Sketch for a kitchen addition and renovation](https://the-grid-user-content.s3-us-west-2.amazonaws.com/ea0058e1-4430-4ff6-8bfe-b76f563befad.jpg)
